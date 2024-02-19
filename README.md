@@ -1,2 +1,2 @@
 # DataBankSQLCaseStudy
-A case study soluton demonstrating my SQL proficiency and analytical ability
+A case study solution demonstrating my SQL proficiency and analytical ability
