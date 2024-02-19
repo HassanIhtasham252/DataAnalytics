@@ -1,2 +1,2 @@
-# DataAnalytics
-All my Data Analytics projects in one place! Feel free to look around
+# DataBankSQLCaseStudy
+A case study soluton demonstrating my SQL proficiency and my analytical ability
